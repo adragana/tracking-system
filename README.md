@@ -104,24 +104,6 @@ docker compose down
 docker compose down -v
 ```
 
-# Shipment Tracking System
-
-A Spring Boot REST API for managing and tracking shipments through their full delivery lifecycle.
-
----
-
-## Tech Stack
-
-- Java 17
-- Spring Boot 3
-- Spring Security + JWT
-- PostgreSQL
-- Flyway
-- Apache POI (Excel) + Apache Commons CSV
-- Lombok
-- Springdoc OpenAPI (Swagger)
-
----
 
 ## Running Locally (without Docker)
 
